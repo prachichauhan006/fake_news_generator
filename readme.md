@@ -6,7 +6,7 @@ A fun Streamlit app that generates random fake news headlines and speaks them us
 -  Generate fake headlines & news stories
 -  Listen to news via TTS
 -  Category-based news (Sports, Bollywood, Politics)
--  Built with Python, Streamlit, pyttsx3
+-  Built with Python, Streamlit, pyttsx3  
 
 ## Run Locally
 
